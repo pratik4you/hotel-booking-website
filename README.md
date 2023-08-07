@@ -26,14 +26,14 @@ Installation Steps
 Open phpmyadmin
 Create Database named hotel.
 Import database hotel.sql from downloaded folder(inside database)
-4. Open Your browser put inside "http://localhost/Online Hotel Booking/"
+4. Open Your browser put inside "http://localhost/hotel-booking-website/"
 Admin Login Details
 Login Id: admin
 Password: 12345
 
 Create Database named hotel.
 Import database hotel.sql from downloaded folder(inside database)
-4. Open Your browser put inside "http://localhost/Online Hotel Booking/"
+4. Open Your browser put inside "http://localhost/hotel-booking-website/"
 Admin Login Details
 Login Id: admin
 Password: 12345
